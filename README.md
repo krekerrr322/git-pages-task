@@ -30,7 +30,7 @@
 ---
 
 ## 4. Сертифікат курсу по Git
-![Сертифікат про проходження курсу Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)
+![Сертифікат про проходження курсу Git]([https://raw.githubusercontent.com/github/explore/main/topics/git/git.png](https://fundamenta.app/))
 
 ---
 
