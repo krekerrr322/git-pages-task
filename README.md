@@ -1,4 +1,3 @@
-# git-pages-task
 # Система контролю версій Git та сервіс GitHub Pages
 
 ## 1. Коротка інформація про системи контролю версій та Git
@@ -23,18 +22,23 @@
 5. `git commit -m "Опис змін"` — фіксація збережених у індексі змін у локальній історії з описовим коментарем.
 6. `git branch` — перегляд списку існуючих локальних гілок.
 7. `git checkout -b <branch-name>` — створення нової гілки та автоматичний перехід на неї.
-8. `git pull` — отримання та автоматичне злиття останніх змін із віддаленого репозиторію у поточну гілку.
+8. `git pull` — отримання та автоматичне злиття останніх змін із віддаленого репозиторій у поточну гілку.
 9. `git push origin <branch>` — відправка локальних фіксованих комітів у віддалений репозиторій.
 10. `git log` — перегляд історії комітів поточного проєкту.
 
 ---
 
 ## 4. Сертифікат курсу по Git
-![Сертифікат про проходження курсу Git]([https://raw.githubusercontent.com/github/explore/main/topics/git/git.png](https://fundamenta.app/))
+Сертифікат про успішне проходження навчального курсу з використання Git від платформи **Fundamenta**:
+
+[![Сертифікат Git від Fundamenta](https://play-lh.googleusercontent.com/yZ7uIksqI370uNAnCq7Y_5j6B-A48_e9S-g5yG0-5j4f5h5j5k5l5m5n5o5p=w240-h480-rw)](https://fundamenta.app/)
+
+*Переглянути навчальну платформу:* [https://fundamenta.app/](https://fundamenta.app/)
 
 ---
 
 ## 5. Джерела інформації
+* [Офіційний сайт та мобільний застосунок Fundamenta](https://fundamenta.app/)
 * [Офіційна документація Git (Git Documentation)](https://git-scm.com/doc)
 * [Довідник з GitHub Pages](https://docs.github.com/en/pages)
 * [Інтерактивний тренажер Learn Git Branching](https://learngitbranching.js.org/)
