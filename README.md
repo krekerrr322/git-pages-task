@@ -29,8 +29,10 @@
 
 ---
 
-## 4. Сертифікат курсу по Git
-![Сертифікат про проходження курсу Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)
+## 4. Сертифікат курсу по Git (Git Fundamentals)
+Завершено базовий навчальний курс з основ використання системи контролю версій: **Git Fundamentals Certificate**.
+
+![Git Fundamentals Certificate](https://images.credly.com/size/340x340/images/af1f04ef-02e0-47b2-bc08-f4b65646fdd5/git-fundamentals.png)
 
 ---
 
